@@ -1,2 +1,2 @@
-# bingo _or _guess_number_game_with_python_Scripts
- this is a multiy player game and fb and cb
+These are all game with python code contain oop and function base .
+thank you for comming and see project.
